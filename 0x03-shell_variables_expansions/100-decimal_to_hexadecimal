@@ -1,1 +1,2 @@
-med file
+#!/bin/bash
+printf "%x\n" $DECIMAL
