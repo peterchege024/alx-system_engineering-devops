@@ -1,2 +1,2 @@
-#@/bi/bash 
+#!/bi/bash 
 $((2#$BINARY))
