@@ -1,1 +1,2 @@
-#@/bi/bash \n $((2#$BINARY))
+#@/bi/bash 
+$((2#$BINARY))
