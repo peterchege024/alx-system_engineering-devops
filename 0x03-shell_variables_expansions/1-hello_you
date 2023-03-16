@@ -1,2 +1,1 @@
-#!/bin/bash
-hello Linux
+1-hello_you-echo "hello $USER"
