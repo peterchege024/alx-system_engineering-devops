@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$PATH(find . -type d -mindepth $n)
+echo $PATH(find . -type d -mindepth $n)
