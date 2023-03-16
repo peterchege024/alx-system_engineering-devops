@@ -1,2 +1,2 @@
+$ cat ./get_user.sh
 #!/bin/bash
-echo "hello $Linux"
