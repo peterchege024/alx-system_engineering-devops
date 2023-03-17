@@ -1,1 +1,2 @@
-dig
+#!/bin/bash
+chmod rwxr-xr-x hello
