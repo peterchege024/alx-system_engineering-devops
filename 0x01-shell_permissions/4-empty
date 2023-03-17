@@ -1,1 +1,2 @@
-pin
+#!/bin/bash
+touch hello
