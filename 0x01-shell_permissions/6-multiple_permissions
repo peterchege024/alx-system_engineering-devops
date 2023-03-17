@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod betty -rwxr-xr-- hello
+chmod u+x,go=rx
