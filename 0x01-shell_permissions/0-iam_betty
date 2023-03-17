@@ -1,1 +1,2 @@
-today
+#!/bin/bash
+su betty
