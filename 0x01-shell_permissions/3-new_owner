@@ -1,1 +1,2 @@
-bwakire
+#!/bin/bash
+sudo chown hello betty
