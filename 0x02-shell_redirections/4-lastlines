@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 4-lastlines
+=======
+#!/bin/bash
+tail 10 /etc/passwd
+>>>>>>> f5d0897b1dab7ed6cfdf62d54cb14bca65038f35
