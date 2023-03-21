@@ -1,1 +1,29 @@
-ls_cwd_content
+total 48
+drwxr-xr-x 2 root root 4096 Mar 20 23:14 .
+drwxr-xr-x 7 root root  160 Mar 16 23:32 ..
+-rwxr-xr-x 1 root root   33 Mar 16 03:13 0-hello_world
+-rwxr--r-- 1 root root    0 Mar 16 03:10 10-no_more_js
+-rwxr--r-- 1 root root    0 Mar 16 03:10 11-directories
+-rwxr--r-- 1 root root    0 Mar 16 03:10 12-newest_files
+-rwxr--r-- 1 root root    0 Mar 16 03:10 13-unique
+-rwxr--r-- 1 root root    0 Mar 16 03:10 14-findthatword
+-rwxr--r-- 1 root root    0 Mar 16 03:10 15-countthatword
+-rwxr--r-- 1 root root    0 Mar 16 03:10 16-whatsnext
+-rwxr--r-- 1 root root    0 Mar 16 03:10 17-hidethisword
+-rwxr--r-- 1 root root    0 Mar 16 03:10 18-letteronly
+-rwxr--r-- 1 root root    0 Mar 16 03:10 19-AZ
+-rwxr-xr-x 1 root root   28 Mar 16 03:13 1-confused_smiley
+-rwxr--r-- 1 root root    0 Mar 16 03:10 20-hiago
+-rwxr--r-- 1 root root    0 Mar 16 03:10 21-reverse
+-rwxr--r-- 1 root root    0 Mar 16 03:10 22-users_and_homes
+-rwxr-xr-x 1 root root   28 Mar 16 03:13 2-hellofile
+-rwxr-xr-x 1 root root   39 Mar 15 20:20 3-twofiles
+-rwxr-xr-x 1 root root   35 Mar 19 23:10 4-lastlines
+-rwxr-xr-x 1 root root   35 Mar 19 23:24 5-firstlines
+-rwxr-xr-x 1 root root   40 Mar 20 02:55 6-third_line
+-rwxr-xr-x 1 root root   72 Mar 20 14:08 7-file
+-rwxr-xr-x 1 root root   38 Mar 20 14:08 8-cwd_state
+-rwxr--r-- 1 root root    0 Mar 16 03:10 9-duplicate_last_line
+-rwxr-xr-x 1 root root  801 Mar 20 03:00 iacta
+-rwxr--r-- 1 root root    0 Mar 20 23:22 ls_cwd_content
+-rw-r--r-- 1 root root   16 Mar 15 20:20 README.md
